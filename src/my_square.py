@@ -1,7 +1,8 @@
-def my_square(z):
+
+def my_square(y):
         """takes a value and returns the squared value.
            uses the * operator 
         """
-        return(z*z)
+        return(y**2)
 
-print(my_square(24))
+print(my_square(42))
