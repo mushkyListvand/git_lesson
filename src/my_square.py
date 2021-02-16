@@ -6,4 +6,4 @@ def my_square(x):
         return(x**2)
 
 print(my_square(24))
-ptint(my_square(32))
+ptint(my_square(13))
