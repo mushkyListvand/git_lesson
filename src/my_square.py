@@ -5,5 +5,9 @@ def my_square(y):
         """
         return(y**2)
 
+def my_square2(x):
+        return(x*x)
+
 print(my_square(24))
 ptint(my_square(13))
+print(my_square2(42))
