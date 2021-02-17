@@ -1,7 +1,7 @@
 
-
-
-def my_square(x):
+change for stash
+feature awesome
+def my_square(y):
         """takes a value and returns the squared value.
            uses the *  operator 
         """
