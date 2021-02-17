@@ -6,8 +6,8 @@ def my_square(x):
         """
         return(x**2)
 
-def my_square2(x):
-        return(x*x))
+def my_square2(z):
+        return(z*z))
 
 print(my_square(24))
 ptint(my_square(13))
