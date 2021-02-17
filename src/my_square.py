@@ -7,8 +7,7 @@ def my_square(y):
            uses the *  operator 
         """
         return(y**2)
-def my_square2(z):
-        return(z*z))
+
 second child been added
 print(my_square(24))
 ptint(my_square(13))
