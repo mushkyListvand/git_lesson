@@ -1,10 +1,10 @@
 
 
-def my_square(y):
+def my_square(x):
         """takes a value and returns the squared value.
            uses the *  operator 
         """
-        return(y**2)
+        return(x**2)
 
 def my_square2(z):
         return(z*z)
